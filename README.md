@@ -1,4 +1,4 @@
-# Sorting Algorithms for Beginners
+# Sorting Algorithms for Integer Arrays.
 We implement 3 sorting algorithm for integer arrays.
 
 ## Bubble Sort
