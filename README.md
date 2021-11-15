@@ -1,5 +1,5 @@
 # Sorting Algorithms for Beginners
-We implement 3 sorting algorithm for integer arrays
+We implement 3 sorting algorithm for integer arrays.
 
 ## Bubble Sort
 
